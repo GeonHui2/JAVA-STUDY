@@ -35,4 +35,3 @@ public class BinarryTest {
 // int num = 12345678900; // 오류 
 // long lnum = 12345678900; //오류 
 // long lnumber = 12345678900L; // ok
-
